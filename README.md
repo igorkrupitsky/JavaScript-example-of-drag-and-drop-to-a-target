@@ -7,7 +7,10 @@ This article explains how to make drag and drop to a target work across multiple
 
 ## Introduction
 
-This article is a sequel to the article I wrote earlier: Cross-browser drag and drop. In that article, I provided a JavaScript example of drag and drop. Here I would like to provide a JavaScript example of drag and drop to a target that would work in all browsers (including Safari-iPad).
+This article is a sequel to the article I wrote earlier: Cross-browser drag and drop. 
+https://www.codeproject.com/Articles/226193/cross-browser-drag-and-drop
+
+In that article, I provided a JavaScript example of drag and drop. Here I would like to provide a JavaScript example of drag and drop to a target that would work in all browsers (including Safari-iPad).
 
 This article is for those that like nuts and bolts and are not using third party libraries like jQuery. There is nothing wrong with using third party libraries – I just like more flexibility. For those that like nuts and bolts I would recommend this third party library: Redips. https://www.redips.net/javascript/drag-and-drop-table-content/
 
